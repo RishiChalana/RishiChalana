@@ -14,9 +14,9 @@
 <b>Final-year CS @ VIT Vellore.</b> I build real-time multi-agent AI, applied-ML research, and production backends — and I ship them.
 
 <p>
-<a href="<<FILL: LinkedIn URL>>">LinkedIn</a> &nbsp;·&nbsp;
-<a href="mailto:<<FILL: email>>">Email</a> &nbsp;·&nbsp;
-<a href="<<FILL: portfolio / resume URL>>">Portfolio</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/rishi-chalana-08654520a/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="mailto:rishichalana2@gmail.com">Email</a> &nbsp;·&nbsp;
+<a href="https://drive.google.com/file/d/1xfRwOtqBDSplxMhzg7HoWDpTjp6NF-Cg/view?usp=sharing">Portfolio</a> &nbsp;·&nbsp;
 <a href="https://echo-room-ten.vercel.app">EchoRoom (live)</a>
 </p>
 
