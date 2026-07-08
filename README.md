@@ -31,7 +31,7 @@
 const rishi: Developer = {
   name         : "Rishi Chalana",
   education    : "B.Tech CSE @ VIT Vellore",
-  batch        : "2023 – 2027  ·  CGPA 8.36",
+  batch        : "2023 – 2027",
   based_in     : "Rajasthan, India 🇮🇳  →  Vellore",
   focus        : ["Real-time multi-agent AI", "Applied ML research", "ML security", "Production backends"],
   currently    : ["EchoRoom (live)", "SENTINEL (patent-track)", "AstroFoundation (capstone)"],
