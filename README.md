@@ -20,6 +20,7 @@
   <a href="mailto:rishichalana2@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://drive.google.com/file/d/1xfRwOtqBDSplxMhzg7HoWDpTjp6NF-Cg/view?usp=sharing"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://echo-room-ten.vercel.app"><img src="https://img.shields.io/badge/EchoRoom_Live-3B82F6?style=for-the-badge&logo=rocket&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/rishichalana2/"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=RishiChalana&label=Profile+Views&color=8B5CF6&style=for-the-badge"/>
 </p>
 
@@ -141,6 +142,7 @@ Fuses **three modalities** — light curves, centroid/pixel-difference time seri
 <a href="https://www.linkedin.com/in/rishi-chalana-08654520a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:rishichalana2@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/RishiChalana"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/u/rishichalana2/"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 
 </div>
 
